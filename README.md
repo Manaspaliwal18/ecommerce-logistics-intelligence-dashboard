@@ -117,7 +117,7 @@ ecommerce-logistics-intelligence-dashboard/
 
 ## 📄 Case Study
 
-For a detailed walkthrough of the business problem, methodology, insights, and recommendations, see the full case study in [`docs/case_study.md`](docs/case_study.md)
+For a detailed walkthrough of the business problem, methodology, insights, and recommendations, see the full case study in [`docs/case_study.md`](docs/case-study.md)
 
 ---
 
